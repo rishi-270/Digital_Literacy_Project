@@ -5,7 +5,7 @@
 
 **Registration No.:** 25MIP10097
 
-**Branch:** B.Tech – Computer Science and Engineering
+**Branch:** Int. M.Tech In Data Science and Engineering
 
 **Year / Semester:** First Year | Second Semester
 
