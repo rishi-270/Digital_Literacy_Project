@@ -3,7 +3,7 @@
 
 **Name:** Rishi Choudhary
 
-**Registration No.:** 25BCE10981
+**Registration No.:** 25MIP10097
 
 **Branch:** B.Tech – Computer Science and Engineering
 
