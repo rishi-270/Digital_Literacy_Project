@@ -1,7 +1,7 @@
 
 **Project Report**
 
-**Name:** Saumy Gupta
+**Name:** Rishi Choudhary
 
 **Registration No.:** 25BCE10981
 
