@@ -2,7 +2,7 @@
 "Digital Literacy Portfolio – CSE0001 Project | VIT Bhopal University"
 
 # Digital Literacy Portfolio
-**Name:** Rishi 
+**Name:** Rishi Choudhary
 
 **Reg No.:** 25MIP10097
 
@@ -33,7 +33,7 @@ Researched a cybercrime case study and created a prevention checklist.
 
 ## Links
 
-**Task 3 – Google Form Quiz:** https://forms.gle/j5T6ZBvAHrXDMVxj7
+**Task 3 – Google Form Quiz:** https://forms.gle/sHX5t3hLD9kvWfg16
 
 ## Platforms Used
 - GitHub
